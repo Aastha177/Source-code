@@ -130,7 +130,7 @@ Form and tables
         <!-- Left box for logo -->
         <div class="left">
             <img src="img/gym.png" alt="">
-            <div>Harry Fitness</div>
+            <div>Aastha Fitness</div>
         </div>
         <!-- Mid box for navbar -->
         <div class="mid">
